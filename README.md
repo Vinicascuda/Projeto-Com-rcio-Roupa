@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-O nosso projeto tem a ideia de criar um programa para um comércio de roupas na qual ira conter preços, proutos, entre outros...
+O nosso projeto tem a ideia de criar um programa para um comércio de roupas na qual ira conter preços, produtos e o gerenciamento desses produtos, vizamos criar um programa capaz de auxiliar na venda, estoque desses produtos e melhor experiência para funcionários e clientes 
 
 
 ## Contato
