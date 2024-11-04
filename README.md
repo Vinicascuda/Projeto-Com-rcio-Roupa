@@ -8,5 +8,5 @@ O nosso projeto tem a ideia de criar um programa para um comércio de roupas na 
 ## Contato
 
 Desenvolvido por **Vinicius Leite, Mateus Wandresen, Giseli, Eduardo Ramos**.  
-Email: chavilei12@gmail.com
+Email: vinicius_c_leite@estudante.sesisenai.org.br
 LinkedIn:
