@@ -26,6 +26,6 @@ With this integrated sales and inventory system, Strange Boutique operates effic
 
 ## Contato
 
-Desenvolvido por **Vinicius Leite, Mateus Wandresen, Giseli, Eduardo Ramom, Katleen**.  
+Desenvolvido por **Vinicius Leite, Mateus Wandresen, Giseli, Eduardo Ramos, Katleen**.  
 Email: vinicius_c_leite@estudante.sesisenai.org.br
 
